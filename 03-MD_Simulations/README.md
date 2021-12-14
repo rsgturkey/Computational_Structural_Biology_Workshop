@@ -16,7 +16,7 @@ Operating Systems:
 
 Online Tool:
 
-https://charmm-gui.org (web-based platform)
+https://charmm-gui.org (web-based platform, need registration)
 
 NAMD:
 
