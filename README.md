@@ -1,2 +1,2 @@
 
-# Computational_Structural_Biology_Workshop
+# Computational Structural Biology Workshop
