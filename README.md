@@ -1,4 +1,6 @@
 
 # Computational Structural Biology Workshop
 
+Here, we present our new workshop titled “Introduction to Computational Structural Biology Virtual Workshop” which will be held on 18-19 December 2021. Our workshop will be conducted online (by Zoom) due to Covid19. So, we encourage researchers who are interested in structural biology, protein structure, protein-protein docking, protein-ligand docking and molecular modeling simulation to register for this virtual workshop. The workshop will be conducted by two main sessions. The first day of the workshop will start with theory sections and cover the experimental techniques in protein structure determination, and molecular docking. After the theory section, we will continue with the hands-on part which will be based on an explanation of protein structure files, molecular visualization tools, and implementation of molecular docking by using HADDOCK, SWISS and PRISM. The second day will present the theory section of molecular modeling & simulation with the hands-on section which will be based on the practice of NAMD simulation and analysis of MD simulations data. The workshop will be ended with virtual party and networking session.
+
 ![outline-7_Aralik](https://user-images.githubusercontent.com/20774259/146262217-fd69604b-7c71-418f-8a26-007859668727.png)
