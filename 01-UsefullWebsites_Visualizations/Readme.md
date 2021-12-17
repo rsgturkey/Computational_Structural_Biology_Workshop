@@ -9,6 +9,7 @@ Structural bioinformatics cannot be thought without the experimental studies. Th
 #### Instalations
 ##### PyMol
  https://pymol.org/dokuwiki/?id=installation
+ 
  Education Licence Registration: https://pymol.org/edu/
 
 ##### VMD 
@@ -16,6 +17,7 @@ https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD
 
 ##### Tutorial PDF
 https://pymol.org/dokuwiki/doku.php?id=tutorials
+
 https://www.ks.uiuc.edu/Training/Tutorials/vmd/vmd-tutorial.pdf
 
 
