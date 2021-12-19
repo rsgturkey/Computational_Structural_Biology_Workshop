@@ -1,0 +1,11 @@
+receptor = 1eve.pdbqt
+ligand = drug.pdbqt
+
+center_x = 2.023
+center_y = 63.295
+center_z = 67.062
+
+size_x = 40
+size_y = 40
+size_z = 40
+
